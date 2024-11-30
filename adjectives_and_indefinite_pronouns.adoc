@@ -1,0 +1,26 @@
+= Adjectives and Indefinite Pronouns
+:nofooter:
+:toc: 
+
+
+== Aggetivi indefiniti
+
+[cols="s,e",frame=none,grid=none]
+|===
+| ogni | every 
+| qualche | some 
+| qualsiasi | any, any sort of 
+| quanlunque | any, any sort of 
+|===
+
+== Pronomi indefiniti
+
+[cols="s,e",frame=none,grid=none]
+|===
+| uno/una | one
+| ognuno/ognuna | everyone
+| qualcuno/qualcuna | someone, some
+| chiunque | anyone
+| qualcosa | something
+| niente, nulla | nothing
+|===
